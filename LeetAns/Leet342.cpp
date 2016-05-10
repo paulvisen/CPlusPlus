@@ -11,7 +11,3 @@ bool isPowerOfFour(int num){
 
 }
 
-void main(){
-
-	cout << isPowerOfFour(16) << endl;
-}

@@ -55,13 +55,13 @@ string reverseVowels(string s)
 
 
 
-void main()
-{
-
-	cout << reverseVowels("hello") << endl;
-
-	cout << reverseVowels("leetcode") << endl;
-
-
-}
+//void main()
+//{
+//
+//	cout << reverseVowels("hello") << endl;
+//
+//	cout << reverseVowels("leetcode") << endl;
+//
+//
+//}
 

@@ -79,7 +79,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Leet141.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Leet345.cpp" />
+    <ClCompile Include="Leet342.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

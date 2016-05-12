@@ -46,10 +46,10 @@ bool isPalindrome(string s) {
 	}
 
 }
-
-void  main(){
-
-	cout << isPalindrome("A man, a plan, a canal: Panama") << endl;
-	cout << isPalindrome("race a car") << endl;
-}
+//
+//void  main(){
+//
+//	cout << isPalindrome("A man, a plan, a canal: Panama") << endl;
+//	cout << isPalindrome("race a car") << endl;
+//}
 

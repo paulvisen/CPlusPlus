@@ -27,6 +27,12 @@
     <ClCompile Include="Leet160.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Leet299.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeGold.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

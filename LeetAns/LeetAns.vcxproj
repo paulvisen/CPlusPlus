@@ -82,6 +82,8 @@
     <ClCompile Include="Leet345.cpp" />
     <ClCompile Include="Leet342.cpp" />
     <ClCompile Include="Leet160.cpp" />
+    <ClCompile Include="Leet299.cpp" />
+    <ClCompile Include="codeGold.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

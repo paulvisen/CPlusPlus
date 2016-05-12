@@ -24,9 +24,9 @@ void reverse(char *str){
 	}
 }
 
-void main(){
-	
-	
-	return;
-
-}
+//void main(){
+//	
+//	
+//	return;
+//
+//}

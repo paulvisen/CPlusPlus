@@ -92,6 +92,7 @@
     <ClCompile Include="Leet215.cpp" />
     <ClCompile Include="Leet168.cpp" />
     <ClCompile Include="leet128.cpp" />
+    <ClCompile Include="Leet338" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

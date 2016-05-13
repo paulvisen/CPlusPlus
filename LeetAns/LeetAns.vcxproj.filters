@@ -63,6 +63,12 @@
     <ClCompile Include="Leet136.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Leet260.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet347.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

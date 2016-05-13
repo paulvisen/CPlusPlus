@@ -69,7 +69,13 @@
     <ClCompile Include="Leet347.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Leet238.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leet319.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

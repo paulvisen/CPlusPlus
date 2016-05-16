@@ -11,6 +11,8 @@ int missingNumber(vector<int> nums){
 	}
 	return except;
 }
+
+
 //
 //
 //void main(){

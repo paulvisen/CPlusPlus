@@ -57,9 +57,6 @@
     <ClCompile Include="leet128.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Leet338">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Leet136.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -76,6 +73,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="leet319.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet338.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet343.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Leet268.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

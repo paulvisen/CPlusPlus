@@ -32,11 +32,11 @@ int maxProduct(vector<string>& words) {
 }
 
 
-void main(){
-	
-	vector<string> strvec = { "abcw", "baz", "foo", "bar", "xtfn", "abcdef" };
-
-	cout << maxProduct(strvec) << endl;
-
-
-}
+//void main(){
+//	
+//	vector<string> strvec = { "abcw", "baz", "foo", "bar", "xtfn", "abcdef" };
+//
+//	cout << maxProduct(strvec) << endl;
+//
+//
+//}

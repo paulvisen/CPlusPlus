@@ -105,6 +105,8 @@
     <ClCompile Include="Leet318.cpp" />
     <ClCompile Include="Leet94.cpp" />
     <ClCompile Include="Leet230.cpp" />
+    <ClCompile Include="Leet96.cpp" />
+    <ClCompile Include="Leet108.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

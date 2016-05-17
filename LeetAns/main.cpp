@@ -1,16 +1,17 @@
 #include <iostream>
+#include <vector>
 
 
 using namespace std;
 
 
-int numTrees(int n){
+int searchInsert(vector<int>& nums, int target) {
+
+}
+
+
+void main(){
 
 
 }
 
-
-void main()
-{
-
-}
